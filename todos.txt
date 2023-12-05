@@ -1,0 +1,14 @@
+- Find Key and replace it with value. (done)
+- Find key that ends with _DATA} and replace it with a table (done)
+- Table should be replace with string (and stay in the same position) (done)
+- keep same formatting (color , case , bold/italic, etc...). (done)
+
+EDGE CASES
+- If a key is inside a table (must replace it also). (hazim)
+- If a key is inside a word header or footer (hazim)
+
+- If a key is splited on two runs (you must regroup them into one key). (anas)
+- If we are drawing a table that has a header or footer data (you must draw header and footer)
+  if it dosen't exist then keep table as it is without header or footers.
+
+
